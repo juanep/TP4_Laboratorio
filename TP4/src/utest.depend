@@ -5847,7 +5847,7 @@
 
 1543264816 c:\users\juan\desktop\terminar-master\tp4\testing\inc\main_test.h
 
-1543264807 c:\users\juan\desktop\terminar-master\tp4\inc\linkedlist.h
+1543266532 c:\users\juan\desktop\terminar-master\tp4\inc\linkedlist.h
 
 1543264818 source:c:\users\juan\desktop\terminar-master\tp4\testing\src\addnodetest.c
 	"../../testing/utest.h"
@@ -6078,7 +6078,7 @@
 	<stdlib.h>
 	<string.h>
 
-1543266248 source:c:\users\juan\desktop\terminar-master\tp4\src\linkedlist.c
+1543266770 source:c:\users\juan\desktop\terminar-master\tp4\src\linkedlist.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
